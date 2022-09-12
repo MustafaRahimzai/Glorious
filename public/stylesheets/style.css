@@ -73,9 +73,9 @@ img{
   }
   
   .nav-item{
-    border-bottom: 1px solid #616161 ;
-    display: inline-block;
-    padding:13px
+    
+    
+    text-align: center;
   }
   
   }
@@ -99,9 +99,9 @@ img{
   @media (max-width:375px){
   
     .nav-item{
-      border-bottom: 1px solid #616161 ;
-      display: inline-block;
-      padding:13px;
+  
+   
+      text-align: center;
     }
   
   
@@ -123,9 +123,7 @@ img{
   @media (max-width:414px){
   
     .nav-item{
-      border-bottom: 1px solid #616161 ;
-      display: inline-block;
-      padding:13px;
+      text-align: center;
     }
   
   
@@ -904,12 +902,13 @@ img{
 
 #paragraph-6{
   color: #fff;
-  text-justify: auto;
+  text-align: center !important;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: small;
-  padding: 15px;
-  
 
 }
 
-
+img{
+  border-radius: 4px;
+  object-fit: cover;
+}
