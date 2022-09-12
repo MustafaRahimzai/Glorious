@@ -24,9 +24,7 @@ img{
 
 
 
-#img-red{
-  padding-bottom:100%!important;
-}
+
 
   
   #btn1{
@@ -162,9 +160,7 @@ img{
 
   
   @media(max-width:820px){
-    #img-red{
-      padding-top: 25%;
-    }
+  
 
     
 img{
@@ -239,9 +235,7 @@ img{
       margin-bottom:80%;
     }
   
-    #img-red{
-      padding-top: 25%;
-    }
+    
   
    /*  #slide{
       width:100%;
@@ -285,9 +279,7 @@ img{
   
   
   @media(max-width:412px){
-    #img-red{
-      margin-bottom: 25%;
-    }
+   
 
     
 img{
@@ -314,9 +306,7 @@ img{
   }
   
   @media(max-width:540px){
-    #img-red{
-      padding-bottom: 25% !important;
-    }
+  
   
     #div-yellow{
       margin-top: 10px !important;
