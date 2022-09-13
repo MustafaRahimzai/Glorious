@@ -18,7 +18,7 @@
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+ 
 }
 
 
@@ -85,11 +85,18 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
 }
 
   }
-  
+  @media(max-width:384px){
+
+    
+    img{
+      width: 100% !important;
+      height: auto;
+    }
+    
+      }  
   
   
   @media (max-width:375px){
@@ -113,7 +120,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
   }
@@ -131,8 +138,8 @@ img{
   
   @media (max-width:712px){
     .navbar-2 a{
-      font-size: 4.23vw !important;
-      padding-right:  4px !important;
+      font-size: 4.0vw !important;
+      padding-right:  2px !important;
     }
    /*  .artifical-link{
      display: none;
@@ -176,7 +183,7 @@ img{
     img{
       width: 100% !important;
       height: auto;
-      margin: 7px;
+
     }
     
   
@@ -211,7 +218,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
 
@@ -270,7 +277,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
   }
@@ -304,7 +311,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
   }
@@ -317,7 +324,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+ 
 }
 
   }
@@ -330,7 +337,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
   
@@ -345,7 +352,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
   }
@@ -361,7 +368,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
   }
@@ -373,7 +380,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
     
@@ -446,7 +453,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
   
@@ -646,7 +653,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
 
@@ -828,7 +835,7 @@ to {opacity: 1}
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
 }
@@ -843,7 +850,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
 }
@@ -857,7 +864,7 @@ body{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
 .p-pric{
@@ -876,7 +883,7 @@ img{
 img{
   width: 100% !important;
   height: auto;
-  margin: 7px;
+
 }
 
 }
