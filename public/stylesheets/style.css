@@ -148,6 +148,8 @@ img{
   @media (max-width:800px){
     .navbar-2 a{
       font-size: 3.5vw !important;
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
      
     }
     /* .artifical-link{
@@ -648,10 +650,10 @@ img{
     margin-bottom: 10px;
   }
 
-  .p-con{
+/*   .p-con{
     padding-top: 30px;
     padding-left: 10px;
-  }
+  } */
 
 
 
