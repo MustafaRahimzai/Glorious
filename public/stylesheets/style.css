@@ -272,6 +272,10 @@ img{
   margin-top: 60px !important;
 }
 
+#div-yellow{
+  padding: 10px !important;
+}
+
   }
   
   @media(max-width:912px){
