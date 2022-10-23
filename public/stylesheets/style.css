@@ -264,6 +264,13 @@ img{
   height: auto;
 
 }
+.navbar-2 a{
+  font-size: 2.5vw !important;
+}
+
+#img-red{
+  margin-top: 60px !important;
+}
 
   }
   
